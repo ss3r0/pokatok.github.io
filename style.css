@@ -1,0 +1,97 @@
+  @charset "UTF-8"
+
+ article, aside, footer, header, main, nav, section {
+  display: circle;
+ }
+
+ html, body, hl. h2, h3, ul, li, a, p
+ article, aside, footer, header, main, nav, section {
+  padding: 0;
+  margin: 0;
+ }
+ h1{
+	 color: white;
+	 font-family: Tahoma;
+ }
+  h2{
+	 color: white;
+	 font-family: Arial;
+ }
+   h3{
+	 color: black;
+	 font-family: Tahoma;
+ }
+   p{
+	 color: black;
+	 font-family: Verdana;
+ }
+ banner{
+   background-color: #E0FFFF;
+   color: white;
+   padding: 5px 20px;
+ }
+ 
+ body{
+   width: 845px;
+   margin-left: auto;
+   margin-right: auto;
+   background-color: white;
+   font-family: Helvetica, Arial,;
+   font-size: 15px;
+ }
+ 
+ nav{
+   padding: 1px;
+   margin-top: 1px;
+ }
+ 
+ li a {
+   color: white;
+   font-family: Tahoma;
+ }
+ 
+ li {
+   display: inline;
+   margin-left: -35px;
+   margin-right: 55px;
+   font-size: 20px;
+   font-family: Arial;
+   color: black;
+ }
+ 
+ li2 {
+   display: list-item;
+   margin-left: 15px;
+   margin-right: 55px;
+   font-size: 20px;
+   font-family: Arial;
+   color: black;
+ }
+ 
+ 
+ 
+ section{
+   background-color: #3A3B3C;
+   margin-top: 5px;
+   padding: 10px;
+ }
+ 
+ article{
+   background-color: #F5F5F5;
+   margin-top: 0px;
+   padding: 10px 10px;
+ }
+ 
+ main{
+   width: 850px;
+   float: left;
+   margin-bottom: 10px;
+ }
+ footer{
+   clear: both;
+   background-color: #3A3B3C;
+   color: lightblue;
+   padding: 5px 20px;
+ }
+ 
+ 
